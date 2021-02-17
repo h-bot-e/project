@@ -1,9 +1,5 @@
-These are the Q&A for CSC343 Fall 2020 Assignment 1.
 Please place your answers starting on the ANSWER line below each question,
 adding lines as necessary, within the *** paragraph delimters.
-********************************************
-YOUR NAME:
-
 ********************************************
 Q1: (15% of assignment): Every time "make test" successfully runs your
 simulation, we get the same output game results in hideAndSeek2021.out:
