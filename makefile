@@ -1,5 +1,5 @@
-#       makefile for hideAndSeek2021, problem 1, CSC 343 Operating Systems
-#       Dr. Dale Parson. Spring 2021. Updated for state2codeV17 June 2019.
+#       makefile for hideAndSeek2021, problem 1,
+#       
 
 all:		build
 
