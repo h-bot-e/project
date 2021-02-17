@@ -4,7 +4,6 @@ Usage: python graphcrunch.py [z]f1|[z]m1 ARGS
     where m1 args are one parameter to graph followed by multiple crunchFiles.
     A 'z' in front of f1 or m1 forces the y axis to start at 0.
 '''
-# graphcrunch.py, D. Parson, fall 2016
 # Graph data from one or more simulation algorithm runs.
 
 import copy
