@@ -1,6 +1,5 @@
 #!/usr/bin/python
 # decode.py to decode a codeTable error message from an STM run.
-# D. Parson, 2/16/2020
 
 import sys
 
