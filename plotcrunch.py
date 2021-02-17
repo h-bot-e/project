@@ -1,4 +1,4 @@
-# plotcrunch.py, D. Parson, fall 2015
+# 
 # Plot the PLOTLIST from diffset.py for all crunch files.
 
 import copy
